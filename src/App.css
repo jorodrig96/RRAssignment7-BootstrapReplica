@@ -36,3 +36,70 @@
     transform: rotate(360deg);
   }
 }
+
+.justify-content-end{
+  padding-right: 10px;
+  margin: 10px;
+}
+
+.card-Image {
+  
+    background-color: #deedd6;
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    margin-left:auto;
+}
+
+.order-Groceries {
+  
+  display: flex;
+  padding-left: 20%;
+  padding-top: 80px;
+  color: black;
+  font-size: xx-large;
+  font-weight: 900;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pick-up {
+  display: flex;
+  padding-left: 20%;
+  color: black;
+  font-size: xx-large;
+  font-weight: 900;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.whatever-want {
+  justify-content: left;
+  display: flex;
+  padding-top: 10px;
+  padding-left: 20%;
+  color: black;
+  font-size: small;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-Descrip{
+  background-color: yellow;
+}
+
+.backGround {
+  background-color: #61dafb;
+}
+
+.browse-stores {
+  padding-top: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-input {
+  justify-content: left;
+  display: flex;
+  padding-left: 20%;
+  color: black;
+  padding-top: 1%;
+  width: 50%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
